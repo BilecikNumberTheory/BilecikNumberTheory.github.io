@@ -15,7 +15,7 @@ In these seminars, we examine Algebra and Analysis topics, and our goals are to 
 
 | Date         | Speaker      | Title                      | Affiliation   |
 | ------------ | ------------ | ---------------------------| ------------ |
-| 5/10/2023, 11:00   | Murat Özyurt |The Virtues of Group Theory | Universty of bazarr |
+| 5/10/2023    | Murat Özyurt |The Virtues of Group Theory | Universty of bazarr |
 | Row 2, Cell 1| Row 2, Cell 2| Row 2, Cell 3| Row 2, Cell 4|
 | Row 3, Cell 1| Row 3, Cell 2| Row 3, Cell 3| Row 3, Cell 4|
 | Row 4, Cell 1| Row 4, Cell 2| Row 4, Cell 3| Row 4, Cell 4|
