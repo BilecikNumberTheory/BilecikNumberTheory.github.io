@@ -1,4 +1,3 @@
-# BilecikNumberTheory.github.io
 # **Bilecik Number Theory Days**
 
 Welcome! It's great to have you here. This page provides information about the seminars regularly organized by Bilecik Number Theory Team (BNT). These seminars cover various important disciplines of mathematics, especially Number Theory.
