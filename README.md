@@ -15,21 +15,25 @@ In these seminars, we examine Algebra and Analysis topics, and our goals are to 
 
 | Date       | Speaker            | Title                                       |
 | -----------| ------------------- | -------------------------------------------- |
-| 10/12/2023 | İlker İnam         | Set, Relations, and Integers                |
-| 10/19/2023 | Mine Ateş          | Introduction to Groups                      |
-| 10/26/2023 | Murat Özyurt       | Permutation Groups                           |
-| 11/02/2023 | Zeynep Demirkol Özkaya | Subgroups and Normal Subgroups           |
-| 11/09/2023 | Elif Ilgaz Çağlayan | Homomorphisms and Isomorphisms of Groups   |
-| 11/16/2023 | İlker İnam         | Direct Product of Groups                    |
-| 11/23/2023 | Zeynep Demirkol Özkaya | Sylow Theorems                           |
-| 11/30/2023 | Murat Özyurt       | Solvable and Nilpotent Groups                |
-| 12/07/2023 | Pınar Cihan        | Finitely Generated Abelian Groups            |
-| 12/14/2023 | Mine Ateş          | Introduction to Rings                        |
-| 12/21/2023 | Pınar Cihan        | Subrings, Ideals, and Homomorphisms          |
-| 12/28/2023 | Elif Ilgaz Çağlayan | Ring Embedding                               |
-| 01/04/2024 | İlker İnam         | Direct Sum of Rings                          |
-| 01/11/2024 | Zeynep Demirkol Özkaya | Polynomial Rings                      |
-
+| 12/10/2023 | İlker İnam         | Set, Relations, and Integers                |
+| 19/10/2023 | Mine Ateş          | Introduction to Groups                      |
+| 26/10/2023 | Murat Özyurt       | Permutation Groups                           |
+| 02/11/2023 | Zeynep Demirkol Özkaya | Subgroups and Normal Subgroups           |
+| 09/11/2023 | Zeynep Demirkol Özkaya | Subgroups and Normal Subgroups           |
+| 16/11/2023 | BNT Team        | Where is algebra going?                 |
+| 23/11/2023 | Zeynep Demirkol Özkaya | Subgroups and Normal Subgroups           |
+| 30/11/2023 | Elif Ilgaz Çağlayan | Homomorphisms and Isomorphisms of Groups   |
+| 07/12/2023 | Elif Ilgaz Çağlayan | Homomorphisms and Isomorphisms of Groups   |
+| 14/12/2023 | İlker İnam         | Direct Product of Groups                    |
+| 21/12/2023 | Zeynep Demirkol Özkaya | Sylow Theorems                           |
+| 28/12/2023 | Murat Özyurt       | Solvable and Nilpotent Groups                |
+| 04/01/2024 | Pınar Cihan        | Finitely Generated Abelian Groups            |
+| 11/01/2024 | Mine Ateş          | Introduction to Rings                        |
+| 18/01/2024 | Pınar Cihan        | Subrings, Ideals, and Homomorphisms          |
+| 25/01/2024 | Elif Ilgaz Çağlayan | Ring Embedding                               |
+| 01/02/2024 | İlker İnam         | Direct Sum of Rings                          |
+| 08/02/2024 | Zeynep Demirkol Özkaya | Polynomial Rings                      |
+| 15/02/2024 | An adjective will be found for Murat                    |
 
 
 ## **General Seminar**
