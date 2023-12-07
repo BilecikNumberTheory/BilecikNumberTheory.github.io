@@ -37,6 +37,9 @@ In these seminars, we examine Algebra and Analysis topics, and our goals are to 
 Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory," we are subscribing and examining the number theory, Analytical, Algebraic, Combinatorics.
 
 
+
+peynirrrr
+
 | Date       | Speaker | Title | Affiliation |
 | -----------| ------- | ----- | ----------- |
 | 10/26/2023 | TBA     | TBA   | TBA         |
